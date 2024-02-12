@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Hunter N. Parente",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nx": "^18.0.4"
+  }
 }
